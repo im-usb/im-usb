@@ -27,7 +27,7 @@
 
 ## 📈 GitHub Stats 
 
-<img width="600px" src="https://activity-graph.herokuapp.com/graph?username=im-usb&theme=redical">
+<img align="center" width="600px" src="https://activity-graph.herokuapp.com/graph?username=im-usb&theme=redical">
 
 <hr>
 
