@@ -20,3 +20,11 @@ I'm Uday.
 - [LinkedIn](https://www.linkedin.com/in/katiehuangx/)
 - [Medium](https://katiehuangx.medium.com)
 - [Kaggle](https://www.kaggle.com/katiehuangx)-->
+
+<hr>
+  <div align="center"> 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=im-usb&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<br>
+<hr>
+  ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-usb)](https://github.com/anuraghazra/github-readme-stats)
+<hr>
