@@ -20,10 +20,10 @@
 - [Kaggle](https://www.kaggle.com/katiehuangx)-->
 
 <hr>
+
 <div align="center">
-  <img width="900px" src="https://github-readme-streak-stats.herokuapp.com?user=im-usb&theme=dark&hide_border=true">
+  <img width="600px" src="https://github-readme-streak-stats.herokuapp.com?user=im-usb&theme=dark&hide_border=true">
 </div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=im-usb&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <hr>
 
