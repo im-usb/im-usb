@@ -1,4 +1,4 @@
-## Hi there! I'm Uday 🏻‍♀️
+## Hi there! I'm Uday.
 
 ### ✨ About Me in 30 Secs ✨
 - 👩🏻‍💻 B.tech in Electronics and Communication Engineering
