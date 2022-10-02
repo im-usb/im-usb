@@ -1,6 +1,6 @@
 ## Hi there! I'm Uday.
 
-### ✨ About Me in 30 Secs ✨
+### ✨ About Me ✨
 - 👩🏻‍💻 B.tech in Electronics and Communication Engineering
 - 📊 Transitioning to Web Development
 - 📝 Taught myself SQL, Python, HTML, CSS and still going
