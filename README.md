@@ -27,8 +27,9 @@
 
 ## 📈 GitHub Stats 
 
-<img align="center" width="600px" src="https://activity-graph.herokuapp.com/graph?username=im-usb&theme=redical">
-
+<div align="center">
+  <img width="900px" src="https://activity-graph.herokuapp.com/graph?username=im-usb&theme=redical">
+</div>
 <hr>
 
 ![](https://komarev.com/ghpvc/?username=im-usb&color=blue)
