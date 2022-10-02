@@ -26,3 +26,5 @@ I'm Uday.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=im-usb&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <hr>
+
+![](https://komarev.com/ghpvc/?username=im-usb&color=blue)
