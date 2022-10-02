@@ -27,4 +27,5 @@ I'm Uday.
 <br>
 <hr>
   ![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=im-usb)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 <hr>
