@@ -25,4 +25,10 @@
 
 <hr>
 
+## 📈 GitHub Stats 
+
+<img width="600px"src="https://activity-graph.herokuapp.com/graph?username=im-usb&theme=redical">
+
+<hr>
+
 ![](https://komarev.com/ghpvc/?username=im-usb&color=blue)
