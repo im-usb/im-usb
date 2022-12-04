@@ -30,11 +30,4 @@ Organised, performer and goal-driven individual with one year of experience in w
 
 <hr>
 
-## 📈 GitHub Stats 
-
-<div align="center">
-  <img width="900px" src="https://activity-graph.herokuapp.com/graph?username=im-usb&theme=redical">
-</div>
-<hr>
-
 ![](https://komarev.com/ghpvc/?username=im-usb&color=blue)
