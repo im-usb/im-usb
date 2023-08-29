@@ -3,7 +3,7 @@
 ### ✨ About Me ✨
 Organised, performer and goal-driven individual with one year of experience in working with the key stakeholders and communicating between managerial and technical levels of an organisation. Tech-savvy and a fast learner with innate communication skills and natural curiosity.
 
-- 👩🏻‍💻 WordPress Trainee @Multidots
+- 👩🏻‍💻 WordPress Trainee @Multidots (Jan 2023 -July 2023)
 - 👩🏻‍💻 Project Engineer @Wipro (July 2021 -July 2022)
 - 👩🏻‍💻 B.tech in Electronics and Communication Engineering
 - 📊 Transitioning to Web Development
