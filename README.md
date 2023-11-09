@@ -15,8 +15,8 @@ Organised, performer and goal-driven individual with one year of experience in w
 ### ⚡️ Currently ⚡️
 - Learning Front-end Web Development
 - Learning Python by taking up "100Daysofcode" Challenge 
-- Course: 100 Days of Code: The Complete Python Pro Bootcamp for 2022
-- Course: The Complete 2022 Web Development Bootcamp
+- Course: 100 Days of Code: The Complete Python Pro Bootcamp for 2023
+- Course: The Complete 2023 Web Development Bootcamp
 
 <!--### 🙌🏻 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/katiehuangx/)
