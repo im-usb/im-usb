@@ -21,6 +21,8 @@ Organised, performer and goal-driven individual with one year of experience in w
 - Course: The Complete 2023 Web Development Bootcamp (Udemy)
 - Course: Full Stack Web Development 2.0 (PWSkills)
 
+<hr/>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -39,6 +41,8 @@ Organised, performer and goal-driven individual with one year of experience in w
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
+
+<hr/>
 
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-usb&layout=compact&theme=dark" alt=im-usb />
