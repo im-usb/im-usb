@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-usb&label=Profile%20views&color=0e75b6&style=flat" alt="im-usb" /> </p>
+
 ## Hi there! I'm Uday.
 
 ### ✨ About Me ✨
@@ -51,3 +53,7 @@ Organised, performer and goal-driven individual with one year of experience in w
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=im-usb&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=im-usb&theme=2077" height="180em" />
 </div>
+
+<hr/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-usb&theme=nord" alt="im-usb" /></a> </p>
