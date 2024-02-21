@@ -15,11 +15,11 @@ Organised, performer and goal-driven individual with one year of experience in w
 - Tools/Languages: SQL, Python, HTML, CSS, Excel, JS(basic) -->
 <hr/>
 
-### ⚡️ Currently ⚡️
+<!--### ⚡️ Currently ⚡️
 - Learning Front-end Web Development 
 - Course: 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Udemy)
 - Course: The Complete 2023 Web Development Bootcamp (Udemy)
-- Course: Full Stack Web Development 2.0 (PWSkills)
+- Course: Full Stack Web Development 2.0 (PWSkills) -->
 
 <hr/>
 
