@@ -8,7 +8,6 @@ Organised, performer and goal-driven individual with one year of experience in w
 - 👩🏻‍💻 WordPress Trainee @Multidots (Jan 2023 -July 2023)
 - 👩🏻‍💻 Project Engineer @Wipro (July 2021 -July 2022)
 - 👩🏻‍💻 B.tech in Electronics and Communication Engineering
-- 📊 Transitioning to Web Development
 <!-- 📝 Taught myself SQL, Python, HTML, CSS and still going -->
 
 <!--### 💡 Core Competencies 💡
